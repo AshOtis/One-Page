@@ -1,0 +1,11 @@
+{
+  "id": "one-page",
+  "name": "One Page",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Drops a reflective question, or now and then a story, poem, dialogue or gratitude prompt, into each new daily note. A pause before the scroll.",
+  "author": "AshOtis",
+  "authorUrl": "https://github.com/AshOtis",
+  "fundingUrl": "https://buymeacoffee.com/ashotis",
+  "isDesktopOnly": false
+}
