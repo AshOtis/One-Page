@@ -38,7 +38,7 @@ There are no dependencies. Run `python3 build.py` to write `main.js` and `manife
 
 ## Support
 
-If it helps you start the day well, you can [buy me a coffee](https://buymeacoffee.com/ashotis). Questions or ideas: open an issue, or email Hello@utilitiz.net.
+If it helps you start the day well, you can [buy me a coffee](https://buymeacoffee.com/ashotis). Found a bug or have an idea? [Open an issue](https://github.com/AshOtis/One-Page/issues). It's the best way to reach me, and every report gets read.
 
 ## License
 
