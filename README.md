@@ -42,4 +42,4 @@ If it helps you start the day well, you can [buy me a coffee](https://buymeacoff
 
 ## License
 
-[MIT](LICENSE) © AshOtis
+[GNU AGPL v3 or later](LICENSE) © AshOtis
